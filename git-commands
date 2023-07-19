@@ -1,0 +1,21 @@
+ls
+ls -a
+touch file1
+ls
+git status
+git add file1
+git commit -m "test commit" file1
+git log
+git show commit id
+touch file2
+git status
+git add 
+git commit -m "test commit 2"
+creating multiple filest
+touch file2 file3 file4 file5
+git add .
+git add *
+git add -A
+git reset HEAD file name
+git reset --soft commit id
+git reset --mixed  commit
