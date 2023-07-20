@@ -1,5 +1,5 @@
 ls
-ls -a
+ls-a
 touch file1
 ls
 git status
@@ -19,3 +19,6 @@ git add -A
 git reset HEAD file name
 git reset --soft commit id
 git reset --mixed  commit
+ml,mxlml,,mkmz,mklsan
+sml,mkm
+
